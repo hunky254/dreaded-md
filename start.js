@@ -749,7 +749,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `𝙱𝚎𝚕𝚝𝚊𝚑 𝚒𝚜 𝚍𝚛𝚒𝚙𝚙𝚒𝚗𝚐 𝚕𝚒𝚔𝚎 𝚊 𝚋𝚘𝚜𝚜💰🤑, { timeZone: 'Africa/Nairobi' })} on ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `𝙱𝚎𝚕𝚝𝚊𝚑 𝚒𝚜 𝚍𝚛𝚒𝚙𝚙𝚒𝚗𝚐 𝚕𝚒𝚔𝚎 𝚊 𝚋𝚘𝚜𝚜💰🤑.` 
 
                                  ) 
 
