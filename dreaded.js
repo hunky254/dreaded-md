@@ -158,7 +158,7 @@ const isBaileys = mek.key.id.startsWith("BAE5") && mek.key.id.length === 16;
 
 const reactionMessage = {
     react: {
-        text: "❌", 
+        text: "😕", 
         key: m.key
     }
 }
@@ -189,14 +189,14 @@ const audiovn = "./alive.mp3";
         mimetype: 'audio/mp4',
         ptt: true,
         waveform:  [100, 0, 100, 0, 100, 0, 100],
-        fileName: "Dreaded",
+        fileName: "𝙸 𝚊𝚖 𝙱𝚎𝚕𝚝𝚊𝚑",
 
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "Hi human, I am Alive",
-          body: "DREADED BOT",
-          thumbnailUrl: "https://telegra.ph/file/a5147a64a5b91d8cf945c.jpg",
+          body: "BELTAH BOT",
+          thumbnailUrl: "https://telegra.ph/file/f6b52e3c6374b2b73cdaf.mp4",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
@@ -235,7 +235,7 @@ function _0x5caf() {
         '584335pexGhZ',
         'cf7f0aef85',
         '1732146ZgkyoO',
-        'DREADED\x20BO',
+        'BELTAH\x20BO',
         'qhefp'
     ];
     _0x5caf = function () {
@@ -432,7 +432,7 @@ if (cmd && m[_0x3c1bf5(0x181)] == _0x3c1bf5(0x180) + _0x3c1bf5(0x175) + _0x3c1bf
 
 if (prefix == '' && commandNam.some(name => body.substring(prefix.length).startsWith(name))) {
 
-await sendReact("❌");
+await sendReact("😬");
 await m.reply(`You are trying to use ${text} command, set up a prefix for your bot before using commands`);
 return;
 
@@ -452,8 +452,8 @@ if (
         return userInput.includes(name.toLowerCase());
     })
 ) {
-    await sendReact("❌");
-    await m.reply(`Wrong command. Type ${prefix}menu to see the help list, eh?`);
+    await sendReact("🙂‍↕🙂‍↔");
+    await m.reply(`SORRY. Type ${prefix} Menu,I'm bot Beltah.`);
     return;
 }
 /* const trimmedBody = body.trim();
@@ -536,7 +536,7 @@ if (m.isGroup && cmd && Blocked.includes(sender)) {
 
 
 if (budy.startsWith(',')) {
-  if (!Owner) return reply("Only owner can evaluate baileys codes")
+  if (!Owner) return reply("Only Beltah can evaluate baileys codes")
   try {
 let evaled = await eval(budy.slice(2));
 
@@ -559,7 +559,7 @@ await reply(String(err));
 
 
    if (budy.startsWith(';')) { 
-   if (!Owner) return reply `Only Owner allowed to evaluate part of the bot codes` 
+   if (!Owner) return reply `Only Beltah allowed to evaluate part of the bot codes` 
    function Return(sul) { 
  sat = JSON.stringify(sul, null, 2) 
  bang = util.format(sat) 
@@ -586,7 +586,7 @@ if (stdout) return reply(stdout)
     if (mek.key.id.startsWith("BAE5") && m.isGroup && !isAdmin && isBotAdmin && mek.key.id.length === 16 && antibot === 'TRUE') {  
 
  const kidts = m.sender;  
-  await client.sendMessage(m.chat, { text: `Dreaded AntiBot:\n@${kidts.split("@")[0]} is bot and has been removed to prevent spam!\nTo deactivate antibot set ANTIBOT variable to FALSE`, contextInfo:{mentionedJid:[kidts]}}, {quoted:m});  
+  await client.sendMessage(m.chat, { text: `Beltah AntiBot:\n@${kidts.split("@")[0]} is bot and has been removed to prevent spam!\nTo deactivate antibot set ANTIBOT variable to FALSE`, contextInfo:{mentionedJid:[kidts]}}, {quoted:m});  
   await client.groupParticipantsUpdate(m.chat, [kidts], 'remove');  
 
   } 
