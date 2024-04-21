@@ -1,4 +1,4 @@
-# DREADED-MD
+# BELTAH-MD
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Fortunatusmokaya/dreaded-md/fork)
+- Fork this repo by tapping  [here](https://github.com/Beltah/dreaded-md/fork)
 
 
 ## Pairing:
@@ -37,7 +37,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
    - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-md).***
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Beltah/dreaded-md).***
 
 -***`Fill in all the required variables and deploy the bot.`***
 
@@ -60,7 +60,7 @@ Thanks to...
 
 ---
 
-Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp or [here](mokayafortunatus@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254114141192) via WhatsApp or [here](beltahke17@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
