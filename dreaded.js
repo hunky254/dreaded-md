@@ -452,7 +452,7 @@ if (
         return userInput.includes(name.toLowerCase());
     })
 ) {
-    await sendReact("🙂‍↕🙂‍↔");
+    await sendReac("😬");
     await m.reply(`SORRY. Type ${prefix} Menu,I'm bot Beltah.`);
     return;
 }
