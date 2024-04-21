@@ -12,9 +12,9 @@ let baseURI = "/apps/" + appname;
 
 let mok = await heroku.get(baseURI+'/config-vars')
 
-let mf = '*Current Heroku Variables*\n\n'
+let mf = '*𝙱𝙴𝙻𝚃𝙰𝙷 𝚃𝙴𝙲𝙷 𝙷𝙴𝚁𝙾𝙺𝚄 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂*\n\n'
 for (let dread in mok) {
-mf+= '📝 *'+dread+'* '+'= '+mok[dread]+'\n'
+mf+= '😎 *'+dread+'* '+'= '+mok[dread]+'\n'
 }
  m.reply(mf)
 
