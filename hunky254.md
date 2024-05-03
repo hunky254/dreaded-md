@@ -1,4 +1,4 @@
-# BELTAH-MD
+# HUNKY254-MD
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Thanks to...
 
 ---
 
-Incase of any issues, contact me  [here](https://wa.me/+254114141192) via WhatsApp or [here](beltahke17@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254794592249) via WhatsApp or [here](kleinlinkton@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support if error occur.
 
